@@ -2,6 +2,7 @@
   
 ## 3arthh4ck  
 [Download](https://github.com/smallbing87/good-anarchy-clients-archive/raw/main/3arthh4ck-2.0.0.jar)/[Original](https://github.com/3arthh4ckDevelopment/3arthh4ck-Client/releases/tag/2.0.0)  
+  
 Version: 2.0.0  
 Based on: Old 3arthh4ck  
 Last update: Jan 1, 2024  
@@ -10,6 +11,7 @@ insane at both combat and utilty with a good plugin system, you dont actually ne
   
 ## 3arthh4ck  
 [Download](https://github.com/smallbing87/good-anarchy-clients-archive/raw/main/3arthh4ck-1.3.1.jar)/[Original](https://github.com/colorblindness/3arthh4ck/releases/tag/latest)  
+  
 Version: 1.3.1  
 Based on: Phobos  
 Last update: Dec 7, 2021  
@@ -18,6 +20,7 @@ some people actually prefer using this version instead of the others, and might 
   
 ## Wurst+3  
 [Download](https://github.com/smallbing87/good-anarchy-clients-archive/raw/main/wurst-plus-three-0.7.0.jar)/[Original](https://github.com/WurstPlus/wurst-plus-three/releases/tag/0.7.0)  
+  
 Version: 0.7.0  
 Based on: Wurst+2  
 Last update: Dec 11, 2021  
@@ -26,6 +29,7 @@ pretty good at combat and might got a chance against phobos/3arthh4ck, bad utilt
   
 ## Oyvey  
 [Download](https://github.com/smallbing87/good-anarchy-clients-archive/raw/main/alpha432-0.0.3.jar)/[Original](https://web.archive.org/web/20220719144932/https://github.com/The-Gopro336-Archive/OyVey_Rewrite-BUILDABLE_SRC)  
+  
 Version: 0.0.3  
 Based on: Phobos  
 Last update: Mar 10, 2021  
@@ -34,6 +38,7 @@ the crystalaura is from phobos as far as i know, so the combat will not be too b
   
 ## GameSense++  
 [Download](https://github.com/smallbing87/good-anarchy-clients-archive/raw/main/gsplusplus-final.jar)/[Original](https://github.com/TechAle/gsplusplus/releases/tag/final)  
+  
 Version: 2.3.4  
 Based on: GameSense  
 Last update: Dec 27, 2021  
@@ -44,6 +49,7 @@ decent crystalaura, but it has some other combat modules that works really well,
   
 ## Lambda  
 [Download](https://github.com/smallbing87/good-anarchy-clients-archive/raw/main/lambda-3.4.0.jar)/[Original](https://github.com/lambda-client/lambda/releases/tag/3.4.0)  
+  
 Version: 3.4.0  
 Based on: KAMI Blue  
 Last update: Aug 9, 2023  
@@ -52,6 +58,7 @@ best utilty client with tons of features that other clients lacks, has a nice pl
   
 ## Creepy SalHack  
 [Download](https://github.com/smallbing87/good-anarchy-clients-archive/raw/main/creepy-salhack-2.08.2.jar)/[Original](https://github.com/CreepyOrb924/creepy-salhack/releases/tag/v2.08.2)  
+  
 Version: 2.08.2 
 Based on: SalHack  
 Last update: Aug 27, 2023  
@@ -60,6 +67,7 @@ a good og utilty client with decent crystalaura and auto32k, has all the modules
   
 ## Inertia  
 [Download](https://github.com/smallbing87/good-anarchy-clients-archive/raw/main/inertia-3.1.3-1.12.2.jar)/[Original](https://inertiaclient.com/download%20retriever/DownloadRetrieverManualTest.php?MinecraftVersion=1.12.2%20forge)  
+  
 Version: 3.1.3  
 Based on: WWE  
 Last update: Nov 3, 2020
