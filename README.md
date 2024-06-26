@@ -59,7 +59,7 @@ best utilty client with tons of features that other clients lacks, has a nice pl
 ## Creepy SalHack  
 [Download](https://github.com/smallbing87/good-anarchy-clients-archive/raw/main/creepy-salhack-2.08.2.jar)/[Original](https://github.com/CreepyOrb924/creepy-salhack/releases/tag/v2.08.2)  
   
-Version: 2.08.2 
+Version: 2.08.2  
 Based on: SalHack  
 Last update: Aug 27, 2023  
   
