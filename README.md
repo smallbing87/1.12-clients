@@ -27,10 +27,10 @@ Last update: Dec 11, 2021
   
 pretty good at combat and might got a chance against phobos/3arthh4ck, bad utilty module and you should combine it with other utilty clients  
   
-## Oyvey  
+## OyVey  
 [Download](https://github.com/smallbing87/good-anarchy-clients-archive/raw/main/alpha432-0.0.3.jar)/[Original](https://web.archive.org/web/20220719144932/https://github.com/The-Gopro336-Archive/OyVey_Rewrite-BUILDABLE_SRC)  
   
-Version: 0.0.3  
+Version: 0.0.3 Rewrite  
 Based on: Phobos  
 Last update: Mar 10, 2021  
   
